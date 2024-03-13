@@ -6,6 +6,7 @@ class Demo
          s.o.print(" Hello World!");
 	 s.o.print("this is Reshma ");
 	 s.o. print("this is soujanya");
+	 s.o.print("this is suchi");
 
      }
   }
